@@ -75,7 +75,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "start": "nodemon ./bin/www.js",
+    "start": "node ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
